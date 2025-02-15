@@ -7,7 +7,6 @@ redirect_from:
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
   ghec: '*'
 topics:
   - Accounts
@@ -16,11 +15,11 @@ topics:
   - Desktop
   - Security
 children:
-  - /githubs-products
+  - /githubs-plans
   - /github-language-support
-  - /about-github-advanced-security
   - /types-of-github-accounts
   - /access-permissions-on-github
+  - /about-github-advanced-security
   - /faq-about-changes-to-githubs-plans
+  - /github-glossary
 ---
-
